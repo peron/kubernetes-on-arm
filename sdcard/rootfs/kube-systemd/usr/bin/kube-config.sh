@@ -43,8 +43,8 @@ ALL_IMAGES=(
 
 STATIC_DOCKER_DOWNLOAD="https://github.com/luxas/kubernetes-on-arm/releases/download/v0.6.3/docker-1.10.0"
 
-DEFAULT_TIMEZONE="Europe/Helsinki"
-DEFAULT_HOSTNAME="kubepi"
+DEFAULT_TIMEZONE="Europe/Zurich"
+DEFAULT_HOSTNAME="rpi-kube-node-1"
 
 TIMEOUT_FOR_SERVICES=20
 
